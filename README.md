@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
 <p align="left">I'm a frontend developer from Corrientes, Argentina</p>
 
 ###
