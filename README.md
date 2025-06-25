@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrea!</h1>
-<h3 align="center">A frontend developer from Corrientes, Argentina</h3>
+<h3 align="center">A Software Developer from Corrientes, Argentina</h3>
 
 - 📫 How to reach me **andrealopezpalomeque@gmail.com**
 
